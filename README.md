@@ -33,6 +33,6 @@ The dataset was sourced from [Kaggle.com](https://www.kaggle.com/datasets/mohamm
   **Total Amount:** Total cost of the transaction.
 
 ## Key Features
-1. *Structured SQL queries to address a variety of business questions.*
+1. *SQL queries created to solve variety of business questions.*
 2. *Organized into meaningful categories for better readability and analysis.*
 3. *Use of Common Table Expressions (CTEs) and subqueries for complex calculations.*
