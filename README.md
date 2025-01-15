@@ -15,21 +15,13 @@ A dataset of 1,000 rows was analyzed.
 The dataset was sourced from [Kaggle.com](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset). It includes the following columns:
 
 **Transaction ID:** Unique identifier for each transaction.
-
 **Date:** Date of the transaction.
-
 **Customer ID:** Unique identifier for each customer.
-
 **Gender:** Gender of the customer (Male/Female).
-
 **Age:** Age of the customer.
-
 **Product Category:** Product category (e.g., Clothing, Beauty).
-
 **Quantity:** Number of items purchased.
-
 **Price per Unit:** Price for one unit of the product.
-
 **Total Amount:** Total cost of the transaction.
 
 ## Key Features
